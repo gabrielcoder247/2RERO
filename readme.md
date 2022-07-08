@@ -50,3 +50,17 @@ Exlanation
 Perform the following q=2 queries:
 1. 2RERO contains n=3 cities connected by m=3 bidirectional roads. The price of building a library is and the price for
 repairing a road is .
+
+
+
+The cheapest way to make libraries accessible to all is to:
+
+Build a library in city  at a cost of .
+Build the road between cities  and  at a cost of .
+Build the road between cities  and  at a cost of .
+This gives a total cost of . Note that the road between cities  and  does not need to be built because each is connected to city .
+
+In this scenario it is optimal to build a library in each city because the cost to build a library is less than the cost to build a road.
+image
+
+There are  cities, so the total cost is 6 x 2 = 12
