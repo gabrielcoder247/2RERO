@@ -21,5 +21,5 @@ Outputs
 
 //Note to test this code you have to open hacker rank
 //and search for the function name roadsAndLibraries
-// copy and paste this code the the sample input is already the
+// copy and paste this code there sample input is already there
 // on other platform you might not get the same output
