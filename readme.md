@@ -55,10 +55,10 @@ repairing a road is .
 
 The cheapest way to make libraries accessible to all is to:
 
-Build a library in city  at a cost of .
-Build the road between cities  and  at a cost of .
-Build the road between cities  and  at a cost of .
-This gives a total cost of . Note that the road between cities  and  does not need to be built because each is connected to city .
+Build a library in city 1 at a cost of  x = 2.
+Build the road between cities 1 and 2 at a cost of y = 1.
+Build the road between cities 2 and 3 at a cost of y = 1.
+This gives a total cost of 2 + 1 + 1 = 4 . Note that the road between cities  and  does not need to be built because each is connected to city .
 
 In this scenario it is optimal to build a library in each city because the cost to build a library is less than the cost to build a road.
 image
